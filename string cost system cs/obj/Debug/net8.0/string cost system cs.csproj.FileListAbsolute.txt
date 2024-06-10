@@ -1,0 +1,14 @@
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.AssemblyInfoInputs.cache
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.AssemblyInfo.cs
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.csproj.CoreCompileInputs.cache
+D:\Scripts\cs cost test\string cost system cs\bin\Debug\net8.0\string cost system cs.exe
+D:\Scripts\cs cost test\string cost system cs\bin\Debug\net8.0\string cost system cs.deps.json
+D:\Scripts\cs cost test\string cost system cs\bin\Debug\net8.0\string cost system cs.runtimeconfig.json
+D:\Scripts\cs cost test\string cost system cs\bin\Debug\net8.0\string cost system cs.dll
+D:\Scripts\cs cost test\string cost system cs\bin\Debug\net8.0\string cost system cs.pdb
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.dll
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\refint\string cost system cs.dll
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.pdb
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\string cost system cs.genruntimeconfig.cache
+D:\Scripts\cs cost test\string cost system cs\obj\Debug\net8.0\ref\string cost system cs.dll
